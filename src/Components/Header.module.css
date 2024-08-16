@@ -1,0 +1,15 @@
+.container {
+  background-color: rgb(44, 43, 45);
+  padding: 15px;
+  border-radius: 20px;
+  display: flex;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.container a {
+  padding-left: 500px;
+  padding-right: 10px;
+  text-align: center;
+  display: flex;
+  color: blue;
+}
