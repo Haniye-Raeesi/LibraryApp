@@ -6,7 +6,7 @@ function Header() {
     <>
       <div className={styles.container}>
         <h1>Book App</h1>
-        <a>BotoStart</a>    <p>     | ReactJs Full course</p>
+        <a>App By me!</a> <p> | ReactJs Project</p>
       </div>
     </>
   );
